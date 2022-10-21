@@ -1,0 +1,8 @@
+{
+  "profile": "Default",
+  "region": "eu-west-2",
+  "configuration": "Release",
+  "s3-prefix": "MSykutera.Tinkering.AwsServerless/",
+  "template": "serverless.template",
+  "template-parameters": ""
+}
